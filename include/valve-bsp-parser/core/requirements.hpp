@@ -19,6 +19,7 @@
 #include <vector>
 #include <unordered_map>
 #include <sstream>
+#include <cstdint>
 
 
 // check for nodiscard
